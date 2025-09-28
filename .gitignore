@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Massive Files
+data/raw/
+data/sql/
+
+
 # Distribution / packaging
 .Python
 build/
